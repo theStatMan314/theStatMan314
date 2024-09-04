@@ -3,7 +3,7 @@
 <h2>👨‍💻 Model Development Projects:</h2>
 
 - <b>R Programming</b>
-  - [Predictive Car Insurance Model (GLM, RF, GAM, GBM)](https://github.com/theStatMan314/Binomial_Car_Insurance_Model)
+  - [Predictive Car Insurance Claims Model (GLM, RF, GAM, GBM)](https://github.com/theStatMan314/Binomial_Car_Insurance_Model)
 - <b>Python</b>
   - [TBD]
 
