@@ -3,9 +3,9 @@
 <h2>👨‍💻 Model Development Projects:</h2>
 
 - <b>R Programming</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Predictive Car Insurance Model (GLM, RF, GAM, GBM)](https://github.com/theStatMan314/Binomial_Car_Insurance_Model)
 - <b>Python</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [TBD]
 
 
 <h2> 🤳 Connect with me:</h2>
