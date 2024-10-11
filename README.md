@@ -5,7 +5,7 @@
 - <b>R Programming</b>
   - [Predictive Car Insurance Claims Model (GLM, RF, GAM, GBM)](https://github.com/theStatMan314/Binomial_Car_Insurance_Model)
 - <b>Python</b>
-  - [TBD]
+  - [Predicting Insurance Claims: A Linear Regression Approach](https://github.com/theStatMan314/Claims-Amount---Linear-Regression)
 
 
 <h2> 🤳 Connect with me:</h2>
